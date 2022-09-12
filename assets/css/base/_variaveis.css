@@ -1,0 +1,16 @@
+:root {
+    --font-family-main: 'Inter', sans-serif;
+    --font-family-code: 'Roboto Mono', monospace;
+
+    --font-size-title: 21px;
+    --font-size-body: 16px;
+    --font-size-sidebar: 12px;
+    
+    --font-wight-title: 700;
+    --font-weight-general: 400;
+
+    --dark-blue: #051d3b;
+    --blue-300: #5081fb;
+    --blue-200: #7ba4fc;
+    --blue-100: #96b9fd;
+}
